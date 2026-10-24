@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "laptop_security": {
+      "command": "python",
+      "args": ["-m", "servers.laptop_security.server"],
+      "env": {}
+    }
+  }
+}
